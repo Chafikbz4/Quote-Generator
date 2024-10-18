@@ -1,4 +1,4 @@
-# qutegener
+# qutegener With Vuejs
 
 ## Project setup
 ```
